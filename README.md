@@ -2,6 +2,8 @@
 
 We are small and just starting out, _apparently you want to be part of our team that is starting to change the clojure ecosystem for the better_, **so let's do it**.
 
+> **oops**, just a second more, I recommend you read [this document](https://github.com/moclojer?view_as=public#welcome-to-the-moclojer-cloud-team-) to understand the moclojer company.
+
 ## Don't wait to have a job opening
 
 We like to work with people who **have ambition to grow as a professional**, so just apply and we will talk.
