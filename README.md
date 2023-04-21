@@ -1,8 +1,8 @@
-# moclojer careers
+# cljazz careers
 
 We are small and just starting out, _apparently you want to be part of our team that is starting to change the clojure ecosystem for the better_, **so let's do it**.
 
-> **oops**, just a second more, I recommend you read [this document](https://github.com/moclojer?view_as=public#welcome-to-the-moclojer-cloud-team-) to understand the moclojer company.
+> **oops**, just a second more, I recommend you read [this document](https://github.com/cljazz?view_as=public#welcome-to-the-cljazz-team-) to understand the cljazz company.
 
 ## Don't wait to have a job opening
 
