@@ -22,7 +22,14 @@ We like to work with people who **have ambition to grow as a professional**, so 
 
 ## Testing
 
-- Write an application using `clj` and `cljs` (you choose whether it should be monolithic or separate front and back)
+- Write an application using Clojure and ClojureScript (you choose whether it should be monolithic or separate front and back)
+  > **I don't know *Clojure/Script*, now what?**
+  >
+  > try to learn to make the frontend or backend (one of the two)
+  >
+  > if you really can't do it, do it in the stack you know
+  >
+  > **obs:** in the code review we will even ask you how was your study about clojure
 - Consume the public api [pokeapi.co](https://pokeapi.co)
 - We want to raise the environment using: `docker compose up`
 > all external service dependencies should work with this command
