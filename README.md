@@ -17,7 +17,7 @@ We like to work with people who **have ambition to grow as a professional**, so 
 ### Follow the steps below to apply
 
 1. Create a git repository with the test implementation - it's okay to be public
-2. After implementation send by [email](mailto:hey@moclojer.com) with the subject "I want to work at moclojer - full stack"
+2. After implementation send by [email](mailto:hey@cljazz.co) with the subject "I want to work at cljazz - full stack"
 
 
 ## Testing
